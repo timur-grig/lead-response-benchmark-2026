@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Lead Response Benchmark, fall 2026"
+type: dataset
+authors:
+  - family-names: Grigorchuk
+    given-names: Timur
+    affiliation: Megawebvision Inc.
+date-released: 2026-10-07
+version: "2026.10"
+license: CC-BY-4.0
+url: "https://megawebvision.com/insights/lead-response-time-benchmark-2026"
+repository-code: "https://github.com/timur-grig/lead-response-benchmark-2026"
+keywords:
+  - lead response time
+  - speed to lead
+  - missed calls
+  - small business
+  - CRM
+abstract: >-
+  Lead response shares at service businesses Megawebvision runs in the
+  United States and Canada, July 6 to October 4, 2026: channel mix, reply
+  speed, after-hours share, phone answer and missed-call text-back rates.
